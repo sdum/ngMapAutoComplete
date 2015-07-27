@@ -1,5 +1,6 @@
 # ngMapAutoComplete
-This package provides an AngularJS directive working in addition of ngMap module (see Credits)
+This package provides an AngularJS directive working in addition of ngMap module (see Credits).
+
 Google Places autocomplete text box on your Google Maps
 
 ## Installation
