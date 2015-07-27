@@ -3,6 +3,8 @@ This package provides an AngularJS directive working in addition of ngMap module
 
 Google Places autocomplete text box on your Google Maps
 
+![Screenshot](https://github.com/sdum/ngMapAutoComplete/blob/master/docs/map.png)
+
 ## Installation
 
 1- Install from bower
