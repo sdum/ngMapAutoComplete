@@ -11,6 +11,9 @@
 		"underscore": "~1.8.0",
 		"ngmap": "~1.9.1"
 	},
+	"ignore": [
+		"docs"
+	]
 	"keywords": [
     	"angularjs",
     	"angularjs-directive",
