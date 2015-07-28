@@ -12,7 +12,7 @@ Google Places autocomplete text box on your Google Maps
   bower install ngmap-autocomplete
   ```
 
-2- Include the Places libraries with the google maps :
+2- Include the Places library with the google maps :
   ```html
   <script src="//maps.google.com/maps/api/js?libraries=places"></script>
   ```
